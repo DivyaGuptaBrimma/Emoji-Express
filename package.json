@@ -1,7 +1,7 @@
 {
   "name": "emoji-express-1",
   "main": "./lib/emoji-express",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
