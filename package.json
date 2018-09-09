@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "emoji-express:toggle"
   },
-  "repository": "https://github.com/DivyaGupta261/emoji-express",
+  "repository": "https://github.com/DivyaGuptaBrimma/Emoji-Express",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
