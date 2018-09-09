@@ -1,0 +1,13 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "emoji-express:toggle",
+    "ctrl-1": "emoji-express:dance",
+    "ctrl-2": "emoji-express:poop",
+    "ctrl-3": "emoji-express:cry",
+    "ctrl-4": "emoji-express:sleepy",
+    "ctrl-5": "emoji-express:think",
+    "ctrl-6": "emoji-express:laugh",
+    "ctrl-7": "emoji-express:tongueOut",
+    "ctrl-8": "emoji-express:quirky"
+  }
+}
